@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    /* padding: 0px; */
+}
+
+p{
+    text-decoration: underline;
+}
+
+.Count {
+    background-color: white;
+    color: black;
+}
+
+button{
+    margin: 5px;
+    padding: 10px;
+    border: 1px black solid;
+    width: 100px;
+}
+
+.clr{
+    border: 1px grey solid;
+    color: rgb(243, 231, 231);
+}
